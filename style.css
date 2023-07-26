@@ -33,6 +33,11 @@ body::before {
     z-index: 10;      
 }
 
+
+.login_box h2 {
+    text-align: center;
+}
+
 .login_body {
     padding: 60px;
     z-index: 90;
